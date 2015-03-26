@@ -1,3 +1,5 @@
 <?xml version='1.0' standalone='yes' ?><Instrument><Row><BondId>13676</BondId><BBestPrice>100</BBestPrice><BBestSize>3</BBestSize><BTOSCustID>92</BTOSCustID><BTOSBehindCustID>0</BTOSBehindCustID><SBestPrice>99.5</SBestPrice><SBestSize>3</SBestSize><STOSCustID>92</STOSCustID><STOSBehindCustID>0</STOSBehindCustID></Row><Row><BondId>6114</BondId><BBestPrice>100</BBestPrice><BBestSize>3</BBestSize><BTOSCustID>93</BTOSCustID><BTOSBehindCustID>0</BTOSBehindCustID><SBestPrice>99.5</SBestPrice><SBestSize>3</SBestSize><STOSCustID>93</STOSCustID><STOSBehindCustID>0</STOSBehindCustID></Row><Row><BondId>10300</BondId><BBestPrice>100</BBestPrice><BBestSize>5</BBestSize><BTOSCustID>92</BTOSCustID><BTOSBehindCustID>0</BTOSBehindCustID><SBestPrice>100</SBestPrice><SBestSize>3</SBestSize><STOSCustID>92</STOSCustID><STOSBehindCustID>0</STOSBehindCustID></Row><Row><BondId>15727</BondId><BBestPrice>100.5</BBestPrice><BBestSize>3</BBestSize><BTOSCustID>93</BTOSCustID><BTOSBehindCustID>0</BTOSBehindCustID><SBestPrice>100</SBestPrice><SBestSize>3</SBestSize><STOSCustID>93</STOSCustID><STOSBehindCustID>0</STOSBehindCustID></Row></Instrument>
 
 this is bug fix
+
+xyx
